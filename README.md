@@ -1,8 +1,6 @@
 ### <div align="center">I'm Patric, LLM && Machine Learning expert</div>  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
