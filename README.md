@@ -39,7 +39,13 @@
 
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=patrickart-data&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats   ![Profile views counter](https://komarev.com/ghpvc/?username=patrickart-data&&style=flat-square)
+<table align="center"><tr><td valign="top" width="50%">
 
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api?username=patrickart-data&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickart-data&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table> 
