@@ -1,4 +1,4 @@
-### <div align="center">I'm Patric, LLM && Machine Learning expert</div>  
+### <div align="center">I'm Patrick, LLM && Machine Learning expert</div>  
   
 <br/>  
 
